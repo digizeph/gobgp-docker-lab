@@ -1,0 +1,7 @@
+time="2019-01-02T04:24:49Z" level=info msg="gobgpd started"
+time="2019-01-02T04:24:49Z" level=info msg="Finished reading the config file" Topic=Config
+time="2019-01-02T04:24:49Z" level=info msg="Peer 172.18.0.2 is added"
+time="2019-01-02T04:24:49Z" level=info msg="Add a peer configuration for:172.18.0.2" Topic=Peer
+time="2019-01-02T04:25:02Z" level=info msg="Peer Up" Key=172.18.0.2 State=BGP_FSM_OPENCONFIRM Topic=Peer
+time="2019-01-02T04:29:04Z" level=info msg="BMP server is connected:127.0.0.1:11019" Topic=bmp
+time="2019-01-02T05:02:49Z" level=warning msg="failed to write to bmp server 127.0.0.1:11019"
